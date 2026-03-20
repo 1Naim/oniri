@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.0.1](https://github.com/Antiz96/oniri/releases/tag/v1.0.1) - 2026-03-20
+
+### Fixes
+
+- *(log)* Update ERROR log message ([#25](https://github.com/Antiz96/oniri/pull/25)) - ([0b55c07](https://github.com/Antiz96/oniri/commit/0b55c07dd1fe6e9a2f579b680949d8e6d2512c9f)) by @Antiz96
+- *(log)* Improve logging ([#24](https://github.com/Antiz96/oniri/pull/24)) - ([cf5b6a3](https://github.com/Antiz96/oniri/commit/cf5b6a37859b5ae17d64dba0855183bd600b221b)) by @Antiz96
+
+### Documentation
+
+- Add modules and functions documentation comments ([#26](https://github.com/Antiz96/oniri/pull/26)) - ([dfe744b](https://github.com/Antiz96/oniri/commit/dfe744b256d0dd8995be181eb49f31805da970c9)) by @Antiz96
+
 ## [v1.0.0](https://github.com/Antiz96/oniri/releases/tag/v1.0.0) - 2026-03-19
 
 ### Features
