@@ -42,7 +42,8 @@ esac
 
 # Bump version where necessary
 sed_pattern="${latest_tag//./\\.}" # escape dots
-sed -i "s/${sed_pattern#v}/${release_tag}/g" Cargo.toml doc/man/oniri.1.scd
+sed -i "s/version = \"${sed_pattern#v}\"/version = \"${release_tag}\"/g" Cargo.toml 
+sed -i "s/${sed_pattern#v}/${release_tag}/g" doc/man/oniri.1.scd
 
 # Build binary
 rm -rf target/ && cargo build --release
