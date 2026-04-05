@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.0.2](https://github.com/Antiz96/oniri/releases/tag/v1.0.2) - 2026-04-05
+
+### Miscellaneous
+
+- *(deps)* Update Rust crate env_logger to 0.11.10 ([#27](https://github.com/Antiz96/oniri/pull/27)) - ([3c95434](https://github.com/Antiz96/oniri/commit/3c95434c95c5f9c3a271cdaea544f1d9c4f47523)) by @renovate[bot]
+- Update release script to avoid bumping dependencies version unexpectedly ([#28](https://github.com/Antiz96/oniri/pull/28)) - ([7ae5439](https://github.com/Antiz96/oniri/commit/7ae543911ee127ce21068503f472fbadc4477b09)) by @Antiz96
+
 ## [v1.0.1](https://github.com/Antiz96/oniri/releases/tag/v1.0.1) - 2026-03-20
 
 ### Fixes
