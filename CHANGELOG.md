@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.0.3](https://github.com/Antiz96/oniri/releases/tag/v1.0.3) - 2026-04-16
+
+### Fixes
+
+- *(event)* Prevent duplicate windows in the workspace map ([#29](https://github.com/Antiz96/oniri/pull/29)) - ([fefb66c](https://github.com/Antiz96/oniri/commit/fefb66c802b09b70750a09cc5fffe1dfb0524099)) by @1Naim
+
 ## [v1.0.2](https://github.com/Antiz96/oniri/releases/tag/v1.0.2) - 2026-04-05
 
 ### Miscellaneous
